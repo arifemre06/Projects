@@ -1,0 +1,12 @@
+Firstly i need to take setup info and i should use setup info for open 3 class for employers,waiters and items.
+Secondly i should read commands and use commands info.i took setup info as arraylist and created employer,waiter and items classes.
+Later i read commands and i created table class in create table for tables's info.i did almost everything in new order i gave most table property in new order.
+Classes:
+Items
+it contain item name cost amount and how many item bought.
+Employer
+it contain employer name salary and how many table crated by employer.
+Waiter
+it contain waiter name salary tableservicecount.
+Table
+it contain who created this table,capacity,id,total cost,ordercount for maxorder,is table inservice boolean,String for checkout,String for order,boolean for tablehaswaiter,String for who is this table's waiter 
